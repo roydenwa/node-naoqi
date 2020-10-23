@@ -1,7 +1,7 @@
 "use strict";
 
 import {EventEmitter} from 'events';
-import * as SocketIO from '@ali/socket.io-client';
+import * as SocketIO from 'socket.io-client';
 
 /**
  * @class QiSocket
