@@ -33,5 +33,5 @@ exports.kQQQVGA             = 7;
 exports.kQQQQVGA            = 8;
 
 // classes
-exports.QiSession = require('./src/session').default;
-exports.QiObject = require('./src/object').default;
+exports.QiSession = require('./lib/session').default;
+exports.QiObject = require('./lib/object').default;
